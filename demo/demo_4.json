@@ -1,0 +1,31 @@
+{
+    "dx": 7,
+    "dy": 3,
+    "print": false,
+    "saving_file": "./demo/result/demo_4_result.txt",
+    "clustering_groups": [
+        [
+            [
+                [
+                    ["A", "B"],
+                    ["C", "D"]
+                ],
+                "E"
+            ],
+            [
+                ["F", "G"],
+                "H"
+            ]
+        ],
+        [
+            [
+                "I",
+                [
+                    ["J", "K"],
+                    "L"
+                ]
+            ],
+            ["M", "N"]
+        ]
+    ]
+}

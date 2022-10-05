@@ -1,0 +1,10 @@
+{
+    "dx": 5,
+    "dy": 2,
+    "print": false,
+    "saving_file": "./demo/result/demo_2_result.txt",
+    "clustering_groups": [
+        [[1, 2], 3],
+        [4, 5]
+    ]
+}

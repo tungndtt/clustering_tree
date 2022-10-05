@@ -1,0 +1,28 @@
+{
+    "dx": 4,
+    "dy": 4,
+    "print": false,
+    "saving_file": "./demo/result/demo_5_result.txt",
+    "clustering_groups": [
+        "bananas",
+        [
+            "tomatoes",
+            [
+                [
+                    "plums",
+                    [
+                        ["cherries", "grapes"],
+                        "strawberries"
+                    ]
+                ]
+            ],
+            [
+                "pears",
+                [
+                    ["peaches", "oranges"],
+                    "apples"
+                ]
+            ]
+        ]
+    ]
+}
